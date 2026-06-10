@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f5f5f5;
+}
+
+.container{
+    width:400px;
+    margin:50px auto;
+    background:white;
+    padding:25px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+h1{
+    text-align:center;
+    color:#d35400;
+}
+
+label{
+    display:block;
+    margin-top:10px;
+}
+
+input, select{
+    width:100%;
+    padding:10px;
+    margin-top:5px;
+}
+
+button{
+    width:100%;
+    padding:12px;
+    margin-top:15px;
+    background:#d35400;
+    color:white;
+    border:none;
+    cursor:pointer;
+    border-radius:5px;
+}
+
+button:hover{
+    background:#a04000;
+}
