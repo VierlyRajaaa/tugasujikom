@@ -16,18 +16,16 @@ const menu = [
   },
   {
     nama: "Sate Telur Puyuh",
-    gambar:
-      "https://images.unsplash.com/photo-1529042410759-befb1204b468?w=600",
+    gambar:"https://images.unsplash.com/photo-1529042410759-befb1204b468?w=600",
     deskripsi: "Sate telur puyuh favorit pelanggan.",
     harga: "Rp 2.000",
     wa: "6285748159338",
   },
   {
-    nama: "Es Teh",
-    gambar:
-      "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=600",
+    nama: "Kopi Susu",
+    gambar:"https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=600",
     deskripsi: "Segar dan cocok menemani makan.",
-    harga: "Rp 3.000",
+    harga: "Rp 8.000",
     wa: "6285748159338",
   },
   {
